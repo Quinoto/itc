@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitc=self.webpackChunkitc||[]).push([[6680],{6280:t=>{t.exports=JSON.parse('{"permalink":"/itc/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

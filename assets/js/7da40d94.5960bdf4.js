@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitc=self.webpackChunkitc||[]).push([[1982],{1059:e=>{e.exports=JSON.parse('{"permalink":"/itc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
