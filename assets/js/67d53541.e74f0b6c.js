@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitc=self.webpackChunkitc||[]).push([[4842],{128:t=>{t.exports=JSON.parse('{"tag":{"label":"hola","permalink":"/itc/blog/tags/hola","allTagsPath":"/itc/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/itc/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

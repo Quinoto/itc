@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkitc=self.webpackChunkitc||[]).push([[1087],{8579:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/itc/blog/tags/hello","allTagsPath":"/itc/blog/tags","count":2,"unlisted":false}')}}]);
